@@ -1,4 +1,4 @@
 # repo
 repo
 
-I will launch a tech start up
+I will launch a tech strt up
